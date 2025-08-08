@@ -1,12 +1,12 @@
-#define BLYNK_TEMPLATE_ID "TMPL68OlJZKOJ"
-#define BLYNK_TEMPLATE_NAME "SAFESNIFF"
-#define BLYNK_AUTH_TOKEN "IHmL3ey_PoNhAm-BaaAfJA-k99-RyJ_p"
+#define BLYNK_TEMPLATE_ID 
+#define BLYNK_TEMPLATE_NAME 
+#define BLYNK_AUTH_TOKEN 
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "SZAHRA 6750";
-char pass[] = "4Q>8254p";
+char ssid[] = "your_ssid";
+char pass[] = "your_pass";
 
 int gasPin = 34;  // MQ-2 analog pin (use A0 or ADC pin)
 int threshold = 300;  // Adjust based on testing
