@@ -45,4 +45,6 @@ Developed by:
 ## 📜 License
 This project is open-source under the MIT License.
 
+![WhatsApp Image 2025-08-08 at 2 53 07 PM](https://github.com/user-attachments/assets/6d0ae678-4535-4097-a4c2-d8ab875ff9f9)
+
 
